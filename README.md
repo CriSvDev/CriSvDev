@@ -5,8 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
 
-![CriSvDev GitHub stats](https://github-readme-stats.vercel.app/api?username=CriSvDev&show_icons=true&theme=dracula&count_private=true)
-
 ## Tecnologias que estoy aprendiendo cada dia
 
 <div style="display: inline_block"><br/>
